@@ -1,0 +1,18 @@
+D:\amish\Projects\Traffic\traffic\traffic\bin\Debug\traffic.exe
+D:\amish\Projects\Traffic\traffic\traffic\bin\Debug\traffic.pdb
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.Form1.resources
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.Properties.Resources.resources
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.csproj.GenerateResource.Cache
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.exe
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.pdb
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.csprojResolveAssemblyReference.cache
+D:\amish\Projects\Traffic\traffic\traffic\obj\x86\Debug\traffic.Login.resources
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.exe
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.pdb
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\bin\Debug\traffic.exe
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\bin\Debug\traffic.pdb
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.Form1.resources
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.Login.resources
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.Properties.Resources.resources
+C:\Users\DELL\Downloads\Traffic Signal Management & Control System\Project\traffic\obj\x86\Debug\traffic.csproj.GenerateResource.Cache
